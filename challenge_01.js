@@ -37,3 +37,5 @@ let gifts3 = []
 console.log( "regalo #1: "+gifts1+" después: " +prepareGifts(gifts1))
 console.log( "regalo #2: " +gifts2+" después: " +prepareGifts(gifts2))
 console.log( "regalo #3: " +gifts3+" después: " +prepareGifts(gifts3))
+
+
